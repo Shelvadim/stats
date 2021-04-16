@@ -1,3 +1,5 @@
+npm install -g parcel-bundler // now it has v2 https://www.npmjs.com/package/parcel-bundler
+
 npm init -y creating a package.json
 tsc --init creating a tsconfig.json file
 npm install nodemon concurrently
